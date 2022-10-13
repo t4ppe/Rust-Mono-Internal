@@ -1,0 +1,409 @@
+C:\Users\chasl\Desktop\New folder (6)\hax3s\obj\x86\Debug\hax3s.csproj.CoreCompileInputs.cache
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\hax3s.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\hax3s.pdb
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Assembly-CSharp.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Network.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.System.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.UnityEngine.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\MetroFramework.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Rust.Data.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Rust.Global.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Console.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UI.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\ApexAI.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Steamworks.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\ApexShared.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Rust.World.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Unity.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\EasyAntiCheat.Client.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\com.unity.postprocessing.Runtime.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\NewAssembly.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Sqlite.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Rust.Workshop.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Skeleton.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Rcon.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\GameAnalytics.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\ApexSerialization.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Rust.UI.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Input.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Raknet.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\RustMenu.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\LZ4.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\protobuf-net.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\websocket-sharp.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\LZ4pn.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\chasl\Desktop\New folder (6)\hax3s\obj\x86\Debug\hax3s.csproj.CopyComplete
+C:\Users\chasl\Desktop\New folder (6)\hax3s\obj\x86\Debug\hax3s.dll
+C:\Users\chasl\Desktop\New folder (6)\hax3s\obj\x86\Debug\hax3s.pdb
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\hax3s.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\hax3s.pdb
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Rust.Global.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Console.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UI.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\ApexAI.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Steamworks.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\ApexShared.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Rust.World.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Unity.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\EasyAntiCheat.Client.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\com.unity.postprocessing.Runtime.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\NewAssembly.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Sqlite.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Rust.Workshop.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Skeleton.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Rcon.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\GameAnalytics.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\ApexSerialization.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Rust.UI.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Input.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\Facepunch.Raknet.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\LZ4.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\protobuf-net.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\websocket-sharp.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\LZ4pn.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\obj\x86\Debug\hax3s.csprojAssemblyReference.cache
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\obj\x86\Debug\BlackZero.Form1.resources
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\obj\x86\Debug\hax3s.csproj.GenerateResource.cache
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\obj\x86\Debug\hax3s.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\obj\x86\Debug\hax3s.csproj.CopyComplete
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\obj\x86\Debug\hax3s.dll
+C:\Users\Jimmy\Desktop\New folder (6)\hax3s\obj\x86\Debug\hax3s.pdb
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\hax3s.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\hax3s.pdb
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Rust.Global.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Facepunch.Console.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UI.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\ApexAI.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Facepunch.Steamworks.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\ApexShared.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Rust.World.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Facepunch.Unity.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\EasyAntiCheat.Client.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\com.unity.postprocessing.Runtime.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\NewAssembly.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Facepunch.Sqlite.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Rust.Workshop.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Facepunch.Skeleton.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Facepunch.Rcon.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\GameAnalytics.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\ApexSerialization.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Rust.UI.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Facepunch.Input.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\Facepunch.Raknet.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\LZ4.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\protobuf-net.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\websocket-sharp.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\LZ4pn.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\obj\x86\Debug\hax3s.csprojAssemblyReference.cache
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\obj\x86\Debug\BlackZero.Form1.resources
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\obj\x86\Debug\hax3s.BlackZero.Testing.resources
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\obj\x86\Debug\hax3s.csproj.GenerateResource.cache
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\obj\x86\Debug\hax3s.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\obj\x86\Debug\hax3s.csproj.CopyComplete
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\obj\x86\Debug\hax3s.dll
+C:\Users\Jimmy\Desktop\Doggoware\MONO Rust\New Folder (6)\hax3s\obj\x86\Debug\hax3s.pdb

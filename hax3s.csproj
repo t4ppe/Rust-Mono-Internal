@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{767F206A-08F4-4727-8016-DDAB1CA99C01}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>hax3s</RootNamespace>
+    <AssemblyName>hax3s</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="Facepunch.Network">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Network.dll</HintPath>
+    </Reference>
+    <Reference Include="Facepunch.System">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.System.dll</HintPath>
+    </Reference>
+    <Reference Include="Facepunch.UnityEngine">
+      <HintPath>..\..\PastedCheat\hax3s\bin\Debug\Facepunch.UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\PastedCheat\hax3s\bin\Debug\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\PastedCheat\hax3s\bin\Debug\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Rust.Data">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BlackZero\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlackZero\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlackZero\Testing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlackZero\Testing.Designer.cs">
+      <DependentUpon>Testing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bloom.cs" />
+    <Compile Include="CS_ClassLibraryTester\Bloom.cs" />
+    <Compile Include="CS_ClassLibraryTester\Draw.cs" />
+    <Compile Include="CS_ClassLibraryTester\MephButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\MephCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\MephComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\MephGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\MephProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\MephRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\MephTabcontrol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\MephTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\MephTheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\MephToggleSwitch.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\MouseState.cs" />
+    <Compile Include="CS_ClassLibraryTester\PrecisionTimer.cs" />
+    <Compile Include="CS_ClassLibraryTester\ThemeContainer154.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\ThemeControl154.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CS_ClassLibraryTester\ThemeShare.cs" />
+    <Compile Include="Drawing.cs" />
+    <Compile Include="DumbHook.cs" />
+    <Compile Include="Dynamic2D.cs" />
+    <Compile Include="Expl.cs" />
+    <Compile Include="HackManager.cs" />
+    <Compile Include="Hacks\Aimbot.cs" />
+    <Compile Include="Hacks\AimHeli.cs" />
+    <Compile Include="Hacks\Config.cs" />
+    <Compile Include="Hacks\HeliSilentAimbot.cs" />
+    <Compile Include="Hacks\Helpers.cs" />
+    <Compile Include="Hacks\ladder.cs" />
+    <Compile Include="Hacks\PlayerESP.cs" />
+    <Compile Include="Hacks\ramdomshit.cs" />
+    <Compile Include="Hacks\Silentxd.cs" />
+    <Compile Include="MercuryXP\SilentAim.cs" />
+    <Compile Include="MercuryXP\SilentAim11.cs" />
+    <Compile Include="MouseState.cs" />
+    <Compile Include="PerfectHook.cs" />
+    <Compile Include="PerfectLoader\PerfectLoad.cs" />
+    <Compile Include="PrecisionTimer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="Renders.cs" />
+    <Compile Include="TextureScaler.cs" />
+    <Compile Include="ThemeContainer154.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ThemeControl154.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ThemeShare.cs" />
+    <Compile Include="TranslatePrefab.cs" />
+    <Compile Include="VitalityButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VitalityCheckbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VitalityLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VitalityProgressbar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VitalityRadiobutton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VitalityTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VitalityTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VitalityTheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="W2S.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BlackZero\Form1.resources" />
+    <EmbeddedResource Include="BlackZero\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlackZero\Testing.resx">
+      <DependentUpon>Testing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resources" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
